@@ -43,12 +43,11 @@ The system is built on a client-server architecture using microservices for auth
 - **Database:** Stores user credentials, MFA settings, and tokens.
 - **Cloud Services:** Integrate with AWS, Azure, or Google Cloud for SMS/Email services and scalability.
 
-![Architecture Diagram](path/to/architecture-diagram.png) <!-- Insert your architecture diagram here -->
-
+![Architecture Diagram](path/to/architecture-diagram.png) 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/mfa-system.git
+   git clone https://github.com/amitorko/Cloud-Based-Multi-Factor-Authentication-System.git
    cd mfa-system
